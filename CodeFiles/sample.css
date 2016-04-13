@@ -1,0 +1,11 @@
+#hover1 > ul > li.hover:first-child:hover {
+	background-color: red;
+}
+
+input[type=button] {
+	background-color: red;
+	float:right;
+	display: block;
+	margin-right: 10px;
+	clear: left;
+}
