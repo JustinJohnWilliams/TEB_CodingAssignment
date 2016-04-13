@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ChannelChangeType.cs" />
     <Compile Include="Device.cs" />
+    <Compile Include="GameConsole.cs" />
     <Compile Include="InvalidChannelException.cs" />
     <Compile Include="Remote.cs" />
     <Compile Include="Television.cs" />
